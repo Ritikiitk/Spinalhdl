@@ -3,7 +3,9 @@
  Focus on RTL description
  Thinked to be interoperable with existing tools
  1) It generate VHDL/Verilog files
- 2)  It can integrate VHDL/Verilog IP as blackbox (easily).  
+ 2)  It can integrate VHDL/Verilog IP as blackbox (easily).
+
+ 
 Abstraction level :
 1) You can design things similary to VHDL/Verilog.
 2) If you want to, you can use many abstraction utils and also

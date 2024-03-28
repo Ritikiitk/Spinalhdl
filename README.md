@@ -16,6 +16,6 @@ define new ones.
 For me the most thing is that "Spinal HDL" is a RTL language. But the generated VHDL/Verilog
 is simulatable with all standards EDA tools.
 
-**Related links**
+**Related links**  
 1)Introduction to SpinalHDL : https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html
 2)

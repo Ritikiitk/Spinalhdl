@@ -17,3 +17,5 @@ For me the most thing is that "Spinal HDL" is a RTL language. But the generated 
 is simulatable with all standards EDA tools.
 
 **Related links**
+1)Introduction to SpinalHDL : https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html
+2)

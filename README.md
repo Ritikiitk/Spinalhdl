@@ -16,4 +16,4 @@ is simulatable with all standards EDA tools.
 **Related links**  
 1) Introduction to SpinalHDL : https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html  
 2) A Simple Example : https://spinalhdl.github.io/SpinalDoc-RTD/master/SpinalHDL/Introduction/A%20simple%20example.html
-3) Theory for the conversion of VHDL code to Verilog : 
+3) Theory for the conversion of VHDL code to Verilog : https://github.com/Ritikiitk/Spinalhdl/blob/main/VHDL%20code%20to%20Verilog.pdf  
